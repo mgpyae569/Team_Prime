@@ -1,0 +1,14 @@
+{
+  "name": "lottery-auto-bot",
+  "version": "1.0.0",
+  "description": "Telegram Auto Bet Bot for Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "telegraf": "^4.16.3"
+  }
+}
