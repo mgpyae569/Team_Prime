@@ -27,7 +27,7 @@ app.listen(PORT, () => {
 });
 
 // --- Constants & Configs ---
-const BOT_TOKEN = process.env.BOT_TOKEN || "8847939563:AAHr5ZQBkaYNwLhB39_OS2ouirroQZLWu5w";
+const BOT_TOKEN = process.env.BOT_TOKEN || "8847939563:AAEk9QnrcNFKHcneDL18QP8L0xidngbpKKY";
 const ADMIN_ID = parseInt(process.env.ADMIN_ID) || 8890310029;
 const IGNORE_SSL = true;
 const WIN_LOSE_CHECK_INTERVAL = 2;
